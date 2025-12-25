@@ -1,0 +1,109 @@
+Module 1
+Threats in Generative AI Systems
+Uncover the vulnerabilities of Generative AI systems by examining common attack vectors such as prompt injection, jailbreaks, and model theft. Learn how adversaries exploit weaknesses, explore mitigation strategies, and gain hands-on practice in detecting and responding to real-world GenAI risks.
+
+13 videos, 8 readings
+Video: Specialization Introduction
+Video: Course Introduction
+Role Play: What Do You Know about AI in LLM?
+Reading: Course Overview
+Video: Common Attack Vectors in Generative AI Systems
+Video: Prompt Injection Attack
+Reading: Optimizing and Evaluting Prompts
+Video: AI Jailbreak Attack
+Reading: Robustness, Safety and Automation in Prompting
+Video: Demonstration: Detecting Prompt Injection and Jailbreak Risks
+Video: Model Theft and Extraction Attacks
+Reading: Evasion vs. Poisoning Attacks in Generative AI
+Video: Mitigation Strategies for GenAI Risks
+Reading: Advanced Adversarial Threats: Model Extraction Techniques
+Discussion Prompt: Introduce Yourself
+Discussion Prompt: Risks in Deploying GenAI Models
+Graded Assignment: Practice Quiz: Identifying Vulnerabilities in GenAI
+Video: LLM-Specific Threats and Risks
+Video: Aligning LLM Output to Security Objectives
+Video: Guardrails and Safety Mechanisms for LLMs
+Reading: Watermarking and Synthetic Content Detection in GenAI Outputs
+Video: Understanding LLM APIs and Their Types
+Video: Demonstration: LLM Integration with Gemini API
+Reading: LLM Safety Evaluation Methodologies
+Discussion Prompt: LLM Safety and Ethics in Practice
+Graded Assignment: Practice Quiz: Securing LLM Applications
+Reading: Module Summary: Threats in Generative AI Systems
+
+Show lessmodule 1 material
+Graded: Knowledge Check: Threats in Generative AI Systems
+Module 2
+AI Lifecycle Security
+Learn how to secure the AI lifecycle by protecting training data, ensuring supply chain integrity, and safeguarding model deployment pipelines. Explore techniques to detect data poisoning, enforce model provenance, manage dependencies, and implement tamper-proofing strategies. Gain practical skills to apply security best practices, monitor AI systems, and mitigate risks while ensuring ethical, reliable, and compliant AI operations.
+
+11 videos, 7 readings
+Video: The Importance of Secure Data in AI Development
+Video: Data Poisoning and Detection Techniques
+Reading: Deep Learning Architectures and Their Security Implications
+Video: Best Practices for Securing AI Data Pipelines
+Video: Demonstration: Securing AI Data Against Poisoning Risks
+Reading: Dataset Integrity and Label Verification in ML Pipelines
+Discussion Prompt: Strategies for Securing AI Training Data
+Graded Assignment: Practice Quiz: Securing AI Training Data and Pipelines
+Video: Model Provenance and Lineage Tracking
+Reading: Risks in AI Model Hubs and Repositories
+Video: Dependency Scanning and Third-Party Model Risks
+Video: Secure Model Distribution and Verification Techniques
+Reading: Best Practices for Dependency and Package Security in AI Workloads
+Discussion Prompt: Ensuring Integrity and Provenance in AI Supply Chains
+Graded Assignment: Practice Quiz: AI Supply Chain Security
+Video: Artifact Signing and Model Integrity Checks
+Reading: Threats in Model Deployment and Delivery Pipelines
+Video: Secure Storage and Key Management for AI Artifacts
+Video: Monitoring for Tampering in Pre/Post-Deployment
+Video: Demonstration: Tracking Model Provenance and Scanning Dependencies
+Reading: Tamper-Proofing Strategies for AI Releases
+Discussion Prompt: Best Practices for Secure AI Model Deployment
+Graded Assignment: Practice Quiz: Securing Model Deployment Pipelines
+Reading: Module Summary: AI Lifecycle Security
+
+Show lessmodule 2 material
+Graded: Knowledge Check: AI Lifecycle Security
+Module 3
+AI Ethics and Regulatory Compliance
+Explore how AI systems can operate ethically and comply with regulatory standards while maintaining security. Learn to identify ethical risks, address bias and fairness challenges, and implement transparency and accountability in AI workflows. Gain hands-on experience with compliance frameworks, auditing practices, and tools like Sola Security to ensure AI-driven systems are responsible, transparent, and legally compliant.
+
+8 videos, 5 readings
+expandmodule 3 material
+
+Graded: Knowledge Check: AI Ethics and Regulatory Compliance
+Module 4
+Frontier Threats in AI Systems
+Investigate advanced security risks in AI systems, focusing on multimodal and Agentic AI vulnerabilities. Learn to identify and mitigate adversarial threats across diverse data modalities, while understanding defensive strategies and risk management practices. Gain hands-on experience with AI-driven threat detection, cybersecurity triage, and security assessment techniques to ensure robust, resilient, and secure enterprise AI deployments.
+
+6 videos, 4 readings
+Video: Introduction to Multimodal AI
+Reading: Adversarial Attacks in Multimodal Learning Systems
+Video: Security Threats to Multimodal AI
+Video: Demonstration: Multimodal AI for Email Threat Detection
+Reading: Security Risks in Speech and Audio-Based AI Models
+Discussion Prompt: High-Risk Multimodal Threats
+Graded Assignment: Practice Quiz: Multimodal AI Security
+Video: What is Agentic AI?
+Video: Agentic AI in Cybersecuriy
+Reading: Agentic Security Triage Framework
+Video: Demonstration: Agentic AI for Cybersecurity Triage
+Discussion Prompt: Securing Cyber Operations with Agentic AI
+Graded Assignment: Practice Quiz: Agentic AI Security
+Reading: Module Summary: Frontier Threats in AI Systems
+
+Show lessmodule 4 material
+Graded: Knowledge Check: Frontier Threats in AI Systems
+Module 5
+Course Wrap-Up and Assessment
+This module is designed to assess an individual on the various concepts and teachings covered in this course. Evaluate your knowledge with a comprehensive graded quiz.
+1 video, 1 reading
+Reading: Practice Project:Designing a Secure Generative AI System
+Role Play: Final Checkpoint: Integrating Security Across the AI Ecosystem
+Video: Course Summary
+Discussion Prompt: Describe Your Learning Journey
+
+Show lessmodule 5 material
+Graded: End Course Knowledge Check: Generative AI and LLM Security
+Graded: Knowledge Check: Reflective Learning
